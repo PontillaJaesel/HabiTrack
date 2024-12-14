@@ -1,4 +1,4 @@
-![TrackTastic Logo](/OOP/images/tracktastic-logo.png)
+![TrackTastic Logo](tracktastic-logo.png)
 
 # TrackTastic: Habit Tracking System 📊
 
